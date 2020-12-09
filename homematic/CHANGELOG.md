@@ -1,5 +1,9 @@
 # Changelog
 
+## 10.4
+
+- Update OCCU to 3.55.5-1
+
 ## 10.3
 
 - Flush ReGaHss config on shutdown
